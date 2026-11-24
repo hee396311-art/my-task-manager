@@ -172,6 +172,14 @@ body {
   flex: 1;
 }
 
+.project-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  color: var(--primary-hover);
+  font-size: 0.875rem;
+  text-underline-offset: 0.2em;
+}
+
 .app-title {
   font-size: 1.55rem;
   font-weight: 700;
